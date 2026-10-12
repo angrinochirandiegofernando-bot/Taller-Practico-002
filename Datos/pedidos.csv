@@ -1,0 +1,11 @@
+numero_pedido,estado,fecha_compra,fecha_entrega_estimada,fecha_entrega_real,categoria_producto,precio_producto,costo_transporte
+e481f51cbdc54678b7cc49136f2d6af7,Entregado,2017-10-02,2017-10-18,2017-10-10,Utilidades domésticas,29.99,8.72
+53cdb2fc8bc7dce0b6741e2150273451,Entregado,2018-07-24,2018-08-13,2018-08-07,Perfumería,118.70,22.76
+47770eb9100c2d0c44946d9cf07ec65d,Entregado,2018-08-08,2018-09-04,2018-08-17,Automotriz,159.90,19.22
+ee64d42b8cf066f35eac1cf57de1aa85,Enviado,2018-06-04,2018-06-28,,Belleza y salud,14.49,7.87
+6942b8da583c2f9957e990d028607019,Enviado,2018-01-10,2018-02-07,,Perfumería,53.99,15.13
+1b9ecfe83cdc259250e1a8aca174f0ad,Cancelado,2018-08-04,2018-08-14,,Informática y accesorios,25.00,8.34
+714fb133a6730ab81fa1d3c1b2007291,Cancelado,2018-01-26,2018-02-22,,Muebles y decoración,69.90,26.11
+8e24261a7e58791d10cb1bf9da94df5c,No disponible,2017-11-16,2017-12-05,,,,
+136cce7faa42fdb2cefd53fdc79a6098,Facturado,2017-04-11,2017-05-09,,Sin categoría registrada,49.90,16.05
+15bed8e2fec7fdbadb186b57c46c92f2,En procesamiento,2017-09-03,2017-10-03,,Perfumería,125.90,12.38

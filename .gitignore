@@ -1,0 +1,18 @@
+# Clave del modelo de lenguaje (nunca se sube)
+.env
+
+# Material del curso
+Entrada/
+
+# Entorno virtual e índice vectorial (se regeneran al ejecutar el notebook)
+.venv/
+chroma_db/
+
+# Checkpoints y cachés
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
